@@ -25,7 +25,7 @@ Various different examples (image classification, object detection and image seg
 10. Intel Movidius Neural Compute Stick 2
 
 ### Documentation
-These jupyter notebooks are based on this meduim article: TODO.
+These jupyter notebooks are based on this meduim article: https://medium.com/sclable/intel-openvino-with-opencv-f5ad03363a38 
 
 ### License
 Please check OpenVINO's license and also for the corresponding models. 
